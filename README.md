@@ -32,6 +32,7 @@ Explore the full interactive story here:
 📊 **[Tableau Dashboard – Beyond the Crowd](https://public.tableau.com/app/profile/rio.pramana/viz/BeyondtheCrowdHowtoSpotAirbnbHiddenGemsSetWinningPricesinBangkok/BeyondtheCrowdHowtoSpotAirbnbHiddenGemsSetWinningPricesinBangkok)**
 
 You can view the full end-to-end analysis in the original Jupyter Notebook:
+
 👉 **[📓 Click here to open the notebook on GitHub](https://github.com/RioPramana21/Beyond-the-Crowd-How-to-Spot-Airbnb-Hidden-Gems-Set-Winning-Prices-in-Bangkok/blob/main/Beyond%20the%20Crowd%20-%20How%20to%20Spot%20Airbnb%20Hidden%20Gems%20%26%20Set%20Winning%20Prices%20in%20Bangkok.ipynb)**
 
 ---
