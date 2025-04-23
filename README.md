@@ -1,3 +1,9 @@
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat&logo=Jupyter&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white)
+![Geopandas](https://img.shields.io/badge/GeoPandas-1.0.0+-lightgrey?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjAiIGhlaWdodD0iMjAiIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogIDxwYXRoIGZpbGw9IiMzNzc2RkYiIGQ9Ik00NjAsMTQ0QzQ2MCw2NC40NDg5IDM5NS41NTExLDAsMzE2LDBIMTQ2QzY2LjQ0ODksMCwwLDY0LjQ0ODksMCwxNDRWNDQ3Ljg2QzAsNDk0LjM0MywzNC41NjE0LDUxMiw3Ny4zMzY3LDUxMkgyNjBDMjkyLjQ4Myw1MTIsMzI4LDQ3Ni40ODMsMzI4LDQzNEgyNjhDMjY4LDQ1NC4xMywyNTEuMTMsNDcwLDIzMSw0NzBIMTAwLjY2N1Y0MDBIMzE2QzM5NS41NTExLDQwMCw0NjAsMzM1LjU1MSw0NjAsMjU2VjE0NFoiLz4KPC9zdmc+)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
 # 🏡 Beyond the Crowd: How to Spot Airbnb Hidden Gems & Set Winning Prices in Bangkok
 
 > 📍 A data-driven exploration to help new Airbnb hosts thrive in Bangkok’s fast-recovering tourism market.
@@ -84,6 +90,15 @@ Explore the full interactive story here:
    - Phasi Charoen: **THB 988 – 1,072**  
    - Chom Thong: **THB 975 – 1,094**  
    - Lat Krabang: **THB 650 – 1,494** *(fallback range used)*
+
+---
+
+## 🧰 Tools & Technologies Used
+
+- **Python**: `pandas`, `numpy`, `geopandas`, `matplotlib`, `seaborn`, `folium`, `scipy.stats`
+- **Tableau**: For interactive storytelling and final visual dashboards
+- **Jupyter Notebook**: For exploratory data analysis and statistical testing
+- **Git & GitHub**: For version control and project publication
 
 ---
 
