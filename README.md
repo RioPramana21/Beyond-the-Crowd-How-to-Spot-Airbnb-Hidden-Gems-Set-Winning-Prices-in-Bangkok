@@ -4,7 +4,7 @@
 
 ---
 
-## 🧠 SCQA Framework
+## SCQA Framework
 
 ### Situation  
 Following Bangkok’s full tourism reopening in July 2022, international arrivals surged by **142% year-over-year** in 2023, reviving the city’s Airbnb market. As competition returns, new hosts are often unsure **where to start** and **how to price** effectively in this dynamic environment.
@@ -27,7 +27,7 @@ Explore the full interactive story here:
 
 ---
 
-## 🔍 Business Questions Answered
+## Business Questions Answered
 
 1. **Which neighborhoods are Hidden Gems?**  
    Lat Krabang, Phasi Charoen, and Chom Thong were identified as high-demand, low-supply areas ideal for new hosts.
@@ -43,23 +43,23 @@ Explore the full interactive story here:
 
 ---
 
-## 📌 Key Statistical Highlights
+## Key Statistical Highlights
 
-- ✅ **Mann-Whitney U Tests** confirmed:
+- **Mann-Whitney U Tests** confirmed:
   - Pricing hotspots are statistically more expensive  
   - Popular areas are significantly more saturated  
   - Peer groups are comparable in most cases
 
-- ✅ **Spearman correlations**:
+- **Spearman correlations**:
   - Price ↑ with demand  
   - Price ↓ with distance from tourist attractions
 
-- ⚠️ **Hidden gems had small sample sizes**  
+- **Hidden gems had small sample sizes**  
   Visual and logical reasoning still support their strategic potential, even if some group comparisons weren’t statistically significant
 
 ---
 
-## 🧪 Methodology Summary
+## Methodology Summary
 
 - Data aggregated by neighborhood using cleaned Airbnb listings (Bangkok, late 2022)
 - Custom scoring system used to identify **Hidden Gems**
