@@ -97,6 +97,20 @@ You can view the full end-to-end analysis in the original Jupyter Notebook:
 
 ---
 
+## 📈 Business Impact
+
+This strategy enables new hosts to enter Bangkok’s Airbnb market **smarter, faster, and with higher chances of success**.
+
+Quantitative advantages of targeting Hidden Gems:
+- **76.7% reduction in competition** compared to typical neighborhoods
+- **4.5% increase in recent guest demand**
+
+These factors **materially improve the probability of faster occupancy, sustainable revenue generation, and lower risk of listing failure**, compared to randomly launching in saturated markets.
+
+By applying these data-driven insights, hosts can significantly enhance their early-stage performance and long-term growth potential.
+
+---
+
 ## 🧰 Tools & Technologies Used
 
 - **Python**: `pandas`, `numpy`, `geopandas`, `matplotlib`, `seaborn`, `folium`, `scipy.stats`
